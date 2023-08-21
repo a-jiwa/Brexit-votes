@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Brexit-votes/static/css/main.f5a1a2ce.css",
+    "main.js": "/Brexit-votes/static/js/main.89ee3abe.js",
+    "static/media/font2.otf": "/Brexit-votes/static/media/font2.db1d4da8e414ef5c3f27.otf",
+    "static/media/font1.otf": "/Brexit-votes/static/media/font1.946e0e5998704ad6740d.otf",
+    "static/media/search-icon.svg": "/Brexit-votes/static/media/search-icon.ce40a12fd29712090b56946b24e4090b.svg",
+    "index.html": "/Brexit-votes/index.html",
+    "main.f5a1a2ce.css.map": "/Brexit-votes/static/css/main.f5a1a2ce.css.map",
+    "main.89ee3abe.js.map": "/Brexit-votes/static/js/main.89ee3abe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5a1a2ce.css",
+    "static/js/main.89ee3abe.js"
+  ]
+}
